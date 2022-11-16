@@ -45,7 +45,7 @@ function CreatePost() {
             createdBy: user.displayName
         });
 
-        navigate('useNavigate');
+        navigate('/');
 
     }
 
